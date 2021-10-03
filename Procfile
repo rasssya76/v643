@@ -1,1 +1,1 @@
-worker :  npm i @adiwajshing/baileys@latest && npm i terminal-kit && npm start
+worker :  npm i @adiwajshing/baileys@latest && npm i ffmpeg && npm i terminal-kit && npm start
